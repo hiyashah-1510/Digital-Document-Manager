@@ -164,8 +164,7 @@ Inspired by modern productivity tools and cloud dashboards.
 
 # 📸 Adding Screenshot
 
-<img width="2239" height="1207" alt="image" src="https://github.com/user-attachments/assets/75683171-e1ea-449d-a0e4-3fb967615432" />
-<img width="2239" height="1203" alt="image" src="https://github.com/user-attachments/assets/079dd2a7-578b-4f28-a57e-10d4fd95e582" />
+
 
 ```
 
