@@ -160,12 +160,6 @@ DocVault follows a **minimal luxury dark theme** with:
 
 Inspired by modern productivity tools and cloud dashboards.
 
----
-
-# 📸 Adding Screenshot
-
-
-
 ```
 
 4. Place it in the **project root**
